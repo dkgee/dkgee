@@ -1,5 +1,5 @@
 <!--
-**Ehco1996/Ehco1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dkgee/dkgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: ...
 -->
 
-### Ehco1996 ✈️ ![](https://views.whatilearened.today/views/github/ehco1996/ehco1996.svg)
+### dkgee ✈️ ![](https://views.whatilearened.today/views/github/dkgee/dkgee.svg)
 
 很多同学会把 `ehco` 看成 `echo` , 事实上起名字那会是想叫 `echo` 的，因为高中时看了很多[三毛(echo)](https://zh.wikipedia.org/zh-hk/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6))的书
 
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 * ✈️ Open to Remote Job Opportunities 🍻
 
-* 👀 Feel free to contact me via [Telegram](https://t.me/Ehco1996)
+* 👀 Feel free to contact me via [Telegram](https://t.me/dkgee)
