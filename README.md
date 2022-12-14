@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Ehco1996/Ehco1996/output/github-contribution-grid-snake.svg)
 
-* 🔭 I’m currently working at [PingCAP](https://pingcap.com/)
+* 🔭 I’m currently working at XXX
 
-* 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> `k8s/rancher`
+* 🌱 I’m currently using `Java` `Python` <del>`Golang`</del> `k8s/rancher`
 
 * ✈️ Open to Remote Job Opportunities 🍻
 
